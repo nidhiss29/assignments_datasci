@@ -1,1 +1,1 @@
-assignments_datasci
+assignments datascience
